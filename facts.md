@@ -8,4 +8,4 @@ List two truths and one lie about you below
 
 Bonus (+1), add your screen shot as an image here.
 
-![Complete Screenshot](/blob/master/proof/complete.JPG)
+![Complete Screenshot](/proof/complete.JPG)
